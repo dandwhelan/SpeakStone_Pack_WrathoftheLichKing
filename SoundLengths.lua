@@ -3323,6 +3323,7 @@ SpeakStoneSoundLengths_Pack_WrathoftheLichKing = {
     ["12336_completion.ogg"] = 5.04,
     ["12337_completion.ogg"] = 4.64,
     ["12339_completion.ogg"] = 5.28,
+    ["12340_completion.ogg"] = 6.24,
     ["12341_completion.ogg"] = 5.76,
     ["12342_completion.ogg"] = 5.60,
     ["12343_completion.ogg"] = 5.52,
